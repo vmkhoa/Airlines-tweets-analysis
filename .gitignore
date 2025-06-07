@@ -33,12 +33,6 @@ Thumbs.db
 apikey.txt
 secrets.json
 
-# Outputs (optional)
-*.json
-*.csv
-*.pkl
-*.xlsx
-
 # Model files (optional)
 *.model
 *.bin
