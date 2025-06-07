@@ -1,0 +1,7 @@
+data: /Users/khoavan/Downloads/tweets.csv
+topics: 6
+words: 10
+output: outputs/topic_labeled.csv
+save_topic_weights: false
+save_json: true
+random_state: 42

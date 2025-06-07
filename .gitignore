@@ -1,0 +1,49 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment and secrets
+.env
+*.env
+apikey.txt
+secrets.json
+
+# Outputs (optional)
+*.json
+*.csv
+*.pkl
+*.xlsx
+
+# Model files (optional)
+*.model
+*.bin
+*.pt
+*.h5
+
+# HuggingFace cache
+~/.cache/huggingface/
