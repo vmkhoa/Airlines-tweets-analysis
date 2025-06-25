@@ -1,5 +1,5 @@
 data: /Users/khoavan/Downloads/tweets.csv
-topics: 6
+topics: 4
 words: 10
 output: outputs/topic_labeled.csv
 save_topic_weights: false
