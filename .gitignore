@@ -41,3 +41,5 @@ secrets.json
 
 # HuggingFace cache
 ~/.cache/huggingface/
+# Pretrained embedding
+glove.6B.zip
