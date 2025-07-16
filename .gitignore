@@ -42,3 +42,4 @@ secrets.json
 # HuggingFace cache
 ~/.cache/huggingface/
 glove.6B.*.txt
+glove.6B.zip
